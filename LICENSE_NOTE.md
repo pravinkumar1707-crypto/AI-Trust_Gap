@@ -1,0 +1,1 @@
+Data source: Stack Overflow Developer Survey 2025. Review and preserve Stack Overflow's published attribution and dataset licensing requirements before redistributing raw/adapted survey data publicly.
